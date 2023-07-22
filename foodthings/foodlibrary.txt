@@ -1,0 +1,15 @@
+egg 70 7
+bread 100 0
+strawberry 50 0
+syrup 100 0
+protein_waffle 180 14 
+pizza 200 0 
+bread_nutella_penutbutter 300 2 
+fruit_leather 100 0 
+test 0 0 
+cava_bowl 900 20 
+bubble_tea 800 0 
+poke_bowl 700 15 
+popcorn 200 0 
+burrito 1000 15 
+soda 200 0 
